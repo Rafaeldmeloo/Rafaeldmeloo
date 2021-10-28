@@ -13,7 +13,7 @@
   
   ## Where to find me:
   
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/itamarprf/)](https://www.instagram.com/itamarprf/)
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaeldmeloo/)](https://www.instagram.com/rafaeldmeloo/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldmeloo@gmail.com)](mailto:rafaeldmeloo@gmail.com)
 
 
